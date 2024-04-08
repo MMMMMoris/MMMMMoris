@@ -7,7 +7,7 @@ Always keep a mind of exploring the world.
 
 ### Languages
 [![Python Badge](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![C Badge](https://img.shields.io/badge/c-00ADD8?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C Badge](https://img.shields.io/badge/c-00ADD8?style=flat&logo=c&logoColor=white)](https://wikipedia.org/wiki/C_(programming_language))
 [![C++ Badge](https://img.shields.io/badge/-c++-black?logo=cplusplus&style=social)](https://cplusplus.com/)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-FFFFF?style=flat&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
 [![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -34,10 +34,10 @@ Always keep a mind of exploring the world.
 ### General
 [![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
 [![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
+[![Cloudflare Badge](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![Cloudflare Badge](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
 <details>
   <summary>Learning</summary>
@@ -50,4 +50,4 @@ Always keep a mind of exploring the world.
 </details>
 
 ## 🌟 Looking for more?
-Why not come [HERE](https://github.com/rxri.gpg) for a visit?
+Why not come [HERE](https://www.cohii.com) for a visit? Early demo web [here](https://me.cohii.com).
